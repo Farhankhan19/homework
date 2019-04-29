@@ -1,0 +1,32 @@
+.banana {
+	width: 700px;
+	background-color: red;
+	height: 800px;
+	margin: 150px;
+	position: relative;
+}
+.mango {
+	border: 1px solid;
+	width: 400px;
+	position: absolute;
+	top: 200px;
+	left: 130px;
+	border-radius: 15px;
+
+
+
+}
+.mango img{
+	width: 150px;
+	float: left;
+	position: relative;
+	border-radius: 15px;
+
+}
+.mango .pineapple {
+	width: 320px;
+/*	border: 1px solid;
+*/	position: absolute;
+	left: 155px;
+
+}
